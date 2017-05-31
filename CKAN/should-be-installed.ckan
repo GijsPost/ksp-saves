@@ -1,0 +1,10 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the default KSP instance",
+	"name": "installed-default",
+	"license": "unknown",
+	"version": "2017.05.31.11.02.03",
+	"identifier": "installed-default",
+	"spec_version": "v1.6",
+	"depends": []
+}

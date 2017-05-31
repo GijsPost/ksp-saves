@@ -1,6 +1,6 @@
-saveMD5 = c50812e491df335bb445946d59b5c34d
+saveMD5 = 1aba3ae84733b1ec357d279be9ac0076
 vesselCount = 0
-UT = 2.800000000000002
+UT = 22.879999999999601
 gameMode = SANDBOX
 gameNull = False
 gameCompatible = True
@@ -8,4 +8,4 @@ funds = 0
 science = 0
 reputationPercent = 0
 ongoingContracts = 0
-saveMD5 = c50812e491df335bb445946d59b5c34d
+saveMD5 = 1aba3ae84733b1ec357d279be9ac0076
