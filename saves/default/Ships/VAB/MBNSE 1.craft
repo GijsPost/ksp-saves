@@ -2,7 +2,7 @@ ship = MBNSE 1
 version = 1.3.0
 description = 
 type = VAB
-size = 9.97911072,41.0357285,5.92324591
+size = 9.97911072,41.0357208,5.92324591
 PART
 {
 	part = Mark1-2Pod_4294693394
